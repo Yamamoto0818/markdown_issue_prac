@@ -1,5 +1,7 @@
 # カレーの作り方
 
+引用元　[house公式サイト](https://housefoods.jp/data/curryhouse/cook/basic.html)
+
 ## 材料
 - バーモントカレー＜甘口＞…1/2箱（115g）
 - 牛肉（角切り）…250g
